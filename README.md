@@ -21,3 +21,7 @@ In the UsingEigenvalues directory:
 In the MismatchedFilters directory:
 
 1. Mismatched Filters with different degrees of spoiling
+
+In the SpectrumSharing directory:
+
+1. Optimal spectrum shaping to achieve low sidelobes
